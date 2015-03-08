@@ -20,6 +20,8 @@ Za³o¿eniem s¹ 2 typy konta: prywatne i publiczne.
 
 Prywatne bêdzie dotyczy³o tylko mnie i bêdê w tym kalendarzu/notatkach umieszcza³ informacje które s¹ tylko mi potrzebne.
 
+Chcia³bym to zrobiæ w ten sposób ¿e to faktycznie bêdzie widoczne i jak w³¹czê przegl¹darkê to zobaczê "Aha, muszê pamiêtaæ o tym i o tym..."
+
 Publiczne konta bêd¹ sk³adaæ siê z grup które wczeœniej zdefinujemy. 
 Przyk³adem u¿ycia tego typu konta bêdzie projekt zespo³owy: moja czteroosobowa grupa bêdzie mia³a taki kalendarz i w ten sposób
 ³atwo bêdziemy mogli przekazywaæ sobie informacje na temat tego co i kiedy zrobi³em, co zamierzam zrobiæ kiedy którego dnia.

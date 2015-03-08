@@ -1,0 +1,27 @@
+My first JavaScript App
+
+To moje pierwsze "powa¿ne" repo wiêc proszê o wyrozumia³oœæ.
+
+Jak tylko dostanê "zni¿kê" na konto studenckie od github zmieniê to repo, albo utworze nowe jako prywatne.
+(Trzeba by³o wys³aæ proœbê o konto studenckie do github)
+
+Aplikacja "Calendar" (nazwa robocza)
+
+Codziennie wchodzê na przegl¹darkê i moj¹ stron¹ staotow¹ jest google.
+
+Chcia³bym stworzyæ aplikacje która bêdzie kalendarzem wraz z noatkami.
+
+Za³o¿enie:
+Wchodzê na stronê domow¹ i poza google i gmailem chcia³bym widzieæ wa¿ne notatki które sobie wczœniej zapisze.
+
+Bêdzie ona przypomina³a mi o tym co sobie zapisa³em, oraz bêdzie mnie informowaæ o datach.
+
+Za³o¿eniem s¹ 2 typy konta: prywatne i publiczne.
+
+Prywatne bêdzie dotyczy³o tylko mnie i bêdê w tym kalendarzu/notatkach umieszcza³ informacje które s¹ tylko mi potrzebne.
+
+Publiczne konta bêd¹ sk³adaæ siê z grup które wczeœniej zdefinujemy. 
+Przyk³adem u¿ycia tego typu konta bêdzie projekt zespo³owy: moja czteroosobowa grupa bêdzie mia³a taki kalendarz i w ten sposób
+³atwo bêdziemy mogli przekazywaæ sobie informacje na temat tego co i kiedy zrobi³em, co zamierzam zrobiæ kiedy którego dnia.
+£atwo bêdzie mo¿na zobaczyæ kto i co zrobi³. Bêdzie te¿ mo¿na dodawaæ komentarze i notatki.
+Bêdzie to dzia³aæ w trybie rzeczywistym - ktoœ coœ wpisze i ja to odrazu zobaczê.
